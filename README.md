@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=A918F7&lines=Ol%C3%A1%2C+eu+sou+a+Ester+Morais)](https://git.io/typing-svg)
 
-- 🌱 Estudando front-end e back-end
-- 😄 ela/dela
+- 🌱 Estudando front-end 
+- 😄 Pronouns: ela/dela
 
 <div align="center">
   <a href="https://github.com/StehMorais">
