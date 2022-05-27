@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=A918F7&lines=Ol%C3%A1%2C+eu+sou+a+Ester+Morais)](https://git.io/typing-svg)
 
-- 🌱 Estudando front-end
+- 🌱 Estudando front-end e back-end
 - 😄 ela/dela
 
 <div align="center">
